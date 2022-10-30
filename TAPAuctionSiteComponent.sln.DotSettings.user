@@ -1,0 +1,44 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0490f986_002D7e4b_002D4724_002Da68a_002De228a170d74b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoadHost_BadConnectionString_Throws" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryBadConnectionTests.LoadHost_BadConnectionString_Throws&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryNullConnectionStringTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryBadConnectionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0bc0c2c7_002D14d3_002D43e9_002Dbe3c_002Dc777be3ebc55/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateSiteOnDb_NameTaken_Throws" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostLoadSiteWithUsersTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostLoadSiteWithSessionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostCreateEmptySiteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostLoadSiteFullSiteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostSessionCleanupTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryNullConnectionStringTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryBadConnectionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.DbContextTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.AuctionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.SessionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.SiteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.UserTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19bfe479_002Dac84_002D4382_002D85aa_002Dfb1eef1f293e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateSiteOnDb_NameTaken_Throws #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=19e3fe20_002D5716_002D46a2_002Db326_002Ddf2987508fb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HostFactoryNullConnectionStringTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryNullConnectionStringTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryBadConnectionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a975450c_002Db86f_002D45fa_002D9989_002Dcbb59c0c5a11/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="HostFactoryNullConnectionStringTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostFactoryNullConnectionStringTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests.CreateSiteOnDb_NullName_Throws&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::6F6A0F24-0E2B-46BF-A1BD-3044A2FB8876::net5.0::TAP21_22.AuctionSite.Testing.HostBasicTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

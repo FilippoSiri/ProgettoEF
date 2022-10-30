@@ -1,0 +1,16 @@
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.AssemblyInfoInputs.cache
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.AssemblyInfo.cs
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.csproj.CoreCompileInputs.cache
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAPAuctionSiteComponentData.deps.json
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAPAuctionSiteComponentData.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\ref\TAPAuctionSiteComponentData.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAPAuctionSiteComponentData.pdb
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAP21-22.AlarmClock.Interface.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAP21-22.AuctionSite.Interface.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAP21-22.AlarmClock.Interface.pdb
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\bin\Debug\net5.0\TAP21-22.AuctionSite.Interface.pdb
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.csproj.CopyComplete
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\ref\TAPAuctionSiteComponentData.dll
+E:\ProgettoTAP\tap21-22auctionsite-Fili00\TAPAuctionSiteComponent\obj\Debug\net5.0\TAPAuctionSiteComponentData.pdb
